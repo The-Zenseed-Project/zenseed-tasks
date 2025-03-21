@@ -1,4 +1,4 @@
-# ZenTasker Contributing Guidelines (CONTRIBUTING.md)
+# ZenTasker Contributing Guidelines
 
 ## 🤝 How to Contribute
 Thank you for your interest in contributing to ZenTasker! We're building an open-source, accessible, and mindful productivity tool — and your help is invaluable.
