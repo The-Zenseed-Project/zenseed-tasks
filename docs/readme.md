@@ -23,7 +23,7 @@ If you’re a contributor or collaborator interested in joining from the beginni
 ---
 
 ##  Follow Our Progress
-- [Roadmap](docs/roadmap.md) *(to be published)*
+- [Roadmap](docs/Roadmap.md) *(to be published)*
 - GitHub Discussions (coming soon)
 - Join our early community chat on [Discord or Matrix] *(invite coming soon)*
 
