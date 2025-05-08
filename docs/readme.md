@@ -1,4 +1,4 @@
-## 🚀 ZenTasker — The Calm, Accessible GTD Task Manager *(Coming Soon)*
+## 🚀 Zenseed-tasks — The Calm, Accessible GTD Task Manager *(Coming Soon)*
 
 ### **Why ZenTasker?**
 ZenTasker will be an open-source, self-hosted task management app built around Getting Things Done (GTD) principles. It’s designed to be distraction-free, neurodiverse-friendly, and fully accessible — giving you the clarity and calm to focus on what matters.
