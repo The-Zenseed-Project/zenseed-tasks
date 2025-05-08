@@ -1,7 +1,7 @@
-# ZenTasker Roadmap 
+#  Zenseed-tasks Roadmap 
 
 ## 🚀 Vision
-ZenTasker is on a mission to build a calm, accessible, distraction-free GTD task manager that supports focus and clarity for all users. This roadmap outlines our development priorities and phased goals.
+ Zenseed-tasks is on a mission to build a calm, accessible, distraction-free GTD task manager that supports focus and clarity for all users. This roadmap outlines our development priorities and phased goals.
 
 ---
 
