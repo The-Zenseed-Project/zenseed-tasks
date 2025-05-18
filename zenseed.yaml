@@ -1,0 +1,6 @@
+language: "en"
+tts_mode: true
+font_scale: 1.2
+keyboard_only: true
+theme: "high-contrast"
+enabled_plugins: []

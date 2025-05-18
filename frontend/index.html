@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Zenseed Tasks</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      font-size: 1.2em;
+      background: white;
+      color: black;
+    }
+    .task {
+      margin: 0.5em 0;
+    }
+    .done {
+      text-decoration: line-through;
+      color: gray;
+    }
+  </style>
+</head>
+<body>
+  <h1>Zenseed Tasks</h1>
+  <div id="taskList">Loading...</div>
+  <script>
+    fetch("http://localhost:8000/tasks")
+      .then(res => res.json())
+      .then(tasks => {
+        const container = document.getElementById("taskList");
+        container.innerHTML = "";
+        tasks.forEach(task => {
+          const div = document.createElement("div");
+          div.className = "task" + (task.completed ? " done" : "");
+          div.textContent = task.title;
+          container.appendChild(div);
+        });
+      });
+  </script>
+</body>
+</html>
